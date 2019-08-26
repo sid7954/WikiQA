@@ -5,4 +5,5 @@ Each file contains tab separated values:
 
 Label TAB Question TAB Answer-Sentence
 
-
+Label= 0/1 corresponding to if the Answer-Sentence correctly answers the question
+Question and Answer-Sentence constitute one pair
